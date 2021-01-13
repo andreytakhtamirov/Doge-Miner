@@ -7,4 +7,4 @@
  This app recreates some functionality from the popular game "Cookie Clicker"
 
 
-![Alt text](/demo.png?raw=true)
+![Alt text](/images/demo.png?raw=true)
