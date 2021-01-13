@@ -35,7 +35,7 @@ class _CoinPageState extends State<CoinPage> {
         Text(
           'DogeCoins: ' + num.parse(dogeCoins.toStringAsFixed(4)).toString(),
           style: TextStyle(
-            fontSize: 23,
+            fontSize: 33,
           ),
           textAlign: TextAlign.center,
         ),
